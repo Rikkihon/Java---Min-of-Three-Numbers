@@ -1,7 +1,7 @@
 import java.util.*;
 import java.util.Scanner; 
 
-public class minofthree {
+public class charactercount {
 
 	 public static int count(String str, char a) {
 		 int number = 0;
